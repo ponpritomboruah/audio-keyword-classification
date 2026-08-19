@@ -1,5 +1,3 @@
-
-
 # Audio Keyword Spotting & Classification with TensorFlow
 
 An end-to-end Deep Learning pipeline that classifies spoken audio commands ("yes" vs "no") using Short-Time Fourier Transform (STFT) spectrograms and a 2D Convolutional Neural Network (CNN).
